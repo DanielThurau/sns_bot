@@ -1,0 +1,11 @@
+Can you edit the following checklist given the knowledge you have on the SNS? The purpose of this checklist is for my clients (devs who want to create an SNS) can walk through the stages of an SNS as I consult them how to do it.
+
+```
+- Create the whitepaper
+- Explain the technical architecture
+- Talk about the project roadmap
+- Include discussion of the tokenomics, and goal of funding + dev / seed neurons
+- Disclosure of dependencies
+- create the sns config file
+
+```
